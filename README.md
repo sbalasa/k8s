@@ -2,6 +2,7 @@
 This is a simple app managed using kubernetes
 
 App Name: my-app.example
+
 Docker Image: Nginx
 
 1. kind Pod -> pod.yml
