@@ -5,11 +5,11 @@ App Name: my-app.example
 
 Docker Image: Nginx
 
-1. kind Pod -> pod.yml
-2. kind Replica Set -> replicaSet.yml
-3. kind Service -> service.yml
-4. kind Ingress -> ingress.yml
-5. kind Deployment -> deployment.yml
+- kind Pod -> pod.yml
+- kind Replica Set -> replicaSet.yml
+- kind Service -> service.yml
+- kind Ingress -> ingress.yml
+- kind Deployment -> deployment.yml
 
 
 ### Commands:
