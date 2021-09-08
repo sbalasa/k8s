@@ -70,3 +70,8 @@ curl -v app-service or curl -X GET http://<ip-address>/
 ## To rollback
 
 ```kubectl rollout undo deployment/pod-deployment```
+
+# Workflows
+
+<img width="591" alt="Screenshot 2021-09-08 at 11 59 21 AM" src="https://user-images.githubusercontent.com/4533119/132458253-723d4ea0-eacb-4a37-bb49-e27c38974b9d.png">
+<img width="593" alt="Screenshot 2021-09-08 at 12 00 08 PM" src="https://user-images.githubusercontent.com/4533119/132458276-5ee0e917-2248-4142-a1e5-2df17d866e01.png">
